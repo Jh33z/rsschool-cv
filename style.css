@@ -1,0 +1,122 @@
+body {
+  background-color: bisque;
+}
+.mega-div {
+  width: 900px;
+  margin: 0 auto;
+  /* background-color: rgba(149, 89, 89, 0.395);
+  border-radius: 100px; */
+  padding: 20px;
+  border: 10px solid black;
+  border-bottom: 0px;
+}
+.container-1 {
+  background-color: rgba(180, 238, 180, 0.658);
+  border-radius: 50px;
+  font-size: 30px;
+  color: blue;
+  display: flex;
+  justify-content: center;
+  margin: 10px 0 0 0;
+}
+.container-2 {
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+}
+.wrapper-div {
+  margin: 20px;
+  display: flex;
+  background-color: rgba(180, 238, 180, 0.658);
+  border-radius: 50px;
+}
+.container-2-paragraph {
+  margin: 15px;
+}
+.container-2-paragraph-2 {
+  margin: 15px 0 15px 15px;
+}
+.container-2-ul {
+  margin: 15px;
+  display: flex;
+}
+.container-2-ul-li-1 {
+  margin: 0 15px 15px 15px;
+}
+.container-2-ul-li-2 {
+  margin: 0 15px 15px 15px;
+}
+.container-3 {
+  margin: 0 69px;
+  display: flex;
+  font-size: 18px;
+  background-color: rgba(180, 238, 180, 0.658);
+  border-radius: 50px; 
+}
+.container-3-paragraph {
+  margin: 0 10px 0 0;
+}
+.container-4 {
+  margin: 40px 69px 0 69px;
+  display: flex;
+  font-size: 18px;
+  background-color: rgba(180, 238, 180, 0.658);
+  border-radius: 50px; 
+}
+.container-4-paragraph {
+  margin: 0 10px 0 0;
+}
+.container-5 {
+  margin: 40px 69px 0 69px;
+  display: flex;
+  font-size: 18px;
+  background-color: rgba(180, 238, 180, 0.658);
+  border-radius: 50px; 
+}
+.container-5-paragraph {
+  margin: 0 10px 0 0;
+}
+.container-6 {
+  margin: 40px 69px 0 69px;
+  display: flex;
+  font-size: 18px;
+  background-color: rgba(180, 238, 180, 0.658);
+  border-radius: 50px; 
+}
+.container-6-paragraph {
+  margin: 0 10px 0 0;
+}
+.container-7 {
+  margin: 40px 69px 0 69px;
+  display: flex;
+  font-size: 18px;
+  background-color: rgba(180, 238, 180, 0.658);
+  border-radius: 50px; 
+}
+.container-7-paragraph {
+  margin: 0 10px 0 0;
+}
+.container-8 {
+  display: flex;
+  font-size: 18px;
+  display: flex;
+  justify-content: space-around;
+  background-color: pink;
+  align-items: center;
+  border-radius: 100px;
+  background-color: rgba(180, 238, 180, 0.658);
+  border-radius: 50px; 
+}
+.container-8-paragraph {
+  margin: 0 10px 0 0;
+}
+.img {
+  width: 50px;
+  border-radius: 10px;
+}
+
+.footer1 {
+  border: 10px solid black;
+  border-top: 0px;
+  background-color: none;
+}
